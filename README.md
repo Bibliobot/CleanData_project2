@@ -1,4 +1,4 @@
-# Getting and Cleaning Data, Peer Assessment Project
+# Getting and Cleaning Data, Project #2
 
 In this repo, you will find information on how to use run_analysis.R code.
 
